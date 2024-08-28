@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeremy Smith
+- 👋 Hi, I’m Jeremy
 - 👀 I’m interested in Video Games 
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on Computer Science
